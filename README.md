@@ -1,16 +1,13 @@
-### Hi there 👋
+# Frontend Engineer
 
-<!--
-**junaid-shirur/junaid-shirur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junaid-shirur-39428821a/)
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate frontend engineer with expertise in building user-friendly and performant web applications. I specialize in JavaScript, TypeScript and modern frontend frameworks like React.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Open to Collaboration
+
+I'm open to collaboration and always eager to work on exciting projects. If you have any opportunities or ideas you'd like to discuss, feel free to reach out to me.
+
+Let's connect and build amazing things together!
+
