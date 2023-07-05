@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/junaid-shirur-39428821a/)
 
-Welcome to my GitHub profile! I'm a passionate frontend engineer with expertise in building user-friendly and performant web applications. I specialize in JavaScript, TypeScript and modern frontend frameworks like React.
+Welcome to my GitHub profile! I'm a passionate frontend engineer with expertise in building user-friendly and performant mobile/web applications. I specialize in JavaScript, TypeScript and modern frontend frameworks like React, React-native.
 
 
 ## Open to Collaboration
